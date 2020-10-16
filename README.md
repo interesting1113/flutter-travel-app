@@ -2,6 +2,9 @@
 
 This is a flutter travel app followed the tutorial of Marcus Ng.
 
+<img width="275" height="512" src=https://github.com/interesting1113/flutter-travel-app/blob/main/assets/images/pic1.png/>
+<img width="275" height="512" src=https://github.com/interesting1113/flutter-travel-app/blob/main/assets/images/pic2.png/>
+
 
 
 ## Getting Started
